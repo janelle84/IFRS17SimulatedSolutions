@@ -65,6 +65,8 @@ This repository provides a Python-based simulation pipeline for implementing an 
 9. **Transition Requirements**  
    - Entities must adopt IFRS 17 retrospectively where possible, or use a modified retrospective or fair value approach if full retrospective application is impractical.
 
+---
+
 ## Objectives of IFRS 17
 
 - **Comparability:** Ensures consistency in reporting insurance contracts globally.  
